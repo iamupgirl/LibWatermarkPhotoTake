@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mis_actionbar_color">#21282C</color>
+    <color name="mis_white">#FFFFFF</color>
+    <color name="mis_pink">#E35756</color>
+    <color name="mis_black">#000000</color>
+</resources>
